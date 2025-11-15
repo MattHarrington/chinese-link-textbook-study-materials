@@ -1,11 +1,39 @@
 # Chinese Link textbook study materials
 
-Here are study materials to accompany the textbook Chinese Link, 2nd edition, Level 1, Part 1, Simplified Character Version. The textbook authors are Sue-mei Wu, Yueming Yu, Yanhui Zhang, and Weichong Tian. It's published by Prentice Hall.
+Here are study materials to accompany the textbook Chinese Link, 2nd edition,
+Level 1, Part 1, Simplified Character Version. The textbook authors are Sue-mei
+Wu, Yueming Yu, Yanhui Zhang, and Weichong Tian. It's published by Prentice
+Hall.
 
-The materials here were assembled or created by the community, not the textbook authors. This repository is just meant to be a place for material you might find helpful when studying the textbook. Effort has been made for correctness, but there might be errors. Always defer to the textbook or your instructor as the final authority.
+The materials here were assembled or created by the community, not the textbook
+authors. This repository is just meant to be a place for material you might
+find helpful when studying the textbook. Effort has been made for correctness,
+but there might be errors. Always defer to the textbook or your instructor as
+the final authority.
 
-**To download a file, click on the filename and then look for *Download raw file* on the right hand side.**
+**To download a file, click on the filename and then look for *Download raw
+file* on the right hand side.**
 
-In the `Vocabulary` folder, you'll find character worksheets from https://www.strokeorder.com for the vocabulary introduced in each lesson. There's a separate PDF for each character. Both simplified and traditional characters are included. If a word contains more than one character, the files for the word are labeled *a*, *b*, *c*, etc.  Note that files are not duplicated in each lesson. If multiple words in a lesson use the same character, that character will only be included once.  For example, 国 is used many times in Lesson 3. Only one worksheet for 国 is included for all of that lesson.  Reuse that worksheet for any words which need it, such as 中国，美国，德国, and 英国. You will also find PDFs in each lesson folder which combine all characters taught in that lesson. You can print out all characters at once by just printing that file. For example, `All Lesson 1 core vocabulary combined.pdf` contains all of the core vocabulary from Lesson 1. This also makes double-sided printing possible.
+In the `Vocabulary` folder, you'll find character worksheets from
+https://www.strokeorder.com for the vocabulary introduced in each lesson.
+There's a separate PDF for each character. Both simplified and traditional
+characters are included. If a word contains more than one character, the files
+for the word are labeled *a*, *b*, *c*, etc.  Note that files are not
+duplicated in each lesson. If multiple words in a lesson use the same
+character, that character will only be included once.  For example, 国 is used
+many times in Lesson 3. Only one worksheet for 国 is included for all of that
+lesson.  Reuse that worksheet for any words which need it, such as
+中国，美国，德国, and 英国. You will also find PDFs in each lesson folder which
+combine all characters taught in that lesson. You can print out all characters
+at once by just printing that file. For example, `All Lesson 1 core vocabulary
+combined.pdf` contains all of the core vocabulary from Lesson 1. This also
+makes double-sided printing possible.
 
-In the `Anki Decks` folder, you'll find flashcards for [Anki](https://apps.ankiweb.net/). They contain both the core and supplemental vocabulary words. It takes time to get familiar with Anki, but it's well worth the effort. There are many tutorials on YouTube such as [How to use Anki for beginners](https://www.youtube.com/watch?v=ixD9RWpFuk4).
+In the `Anki Decks` folder, you'll find flashcards for
+[Anki](https://apps.ankiweb.net/). They contain both the core and supplemental
+vocabulary words. You can also find these decks by searching for "Chinese Link"
+on AnkiWeb.
+
+It takes time to get familiar with Anki, but it's well worth the effort. There
+are many tutorials on YouTube such as [How to use Anki for
+beginners](https://www.youtube.com/watch?v=ixD9RWpFuk4).
